@@ -2,8 +2,6 @@
 simple golang questions
 
 
-## question
-
 ```go
 package main
 
@@ -15,13 +13,14 @@ func main() {
 	fmt.Println(a+b) 	
 }
 ```
-## answer options
-	- 13.1
-	- 13
-	- compilation error
-
-
-<details><summary> show answer </summary>
+answer options
+```bash
+- 13.1
+- 13
+- compilation error
+```
+<details>
+<summary> click show answer </summary>
 <p>
 
 ```bash
