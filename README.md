@@ -16,11 +16,12 @@ func main() {
 }
 ```
 ## answer options
-- 13.1
-- 13
-- compilation error
+	- 13.1
+	- 13
+	- compilation error
 
-<details><summary>show answer </summary>
+
+<details><summary> show answer </summary>
 <p>
 
 ```bash
