@@ -1,6 +1,36 @@
 # golang-quiz
 simple golang questions
 
+```go
+package main
+
+import "fmt"
+
+func main() {
+
+	var i interface{}
+
+	if i == nil {
+		fmt.Println("nil")
+		return
+	}
+	
+	fmt.Println("not nil")
+	
+}
+
+```
+
+<details>
+<summary> click show answer </summary>
+<p>
+
+```bash
+- nil
+```
+</p>
+</details>
+
 
 ```go
 package main
@@ -26,6 +56,5 @@ answer options
 ```bash
 - compilation error
 ```
-
 </p>
 </details>
