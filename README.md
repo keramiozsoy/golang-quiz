@@ -1,6 +1,43 @@
 # golang-quiz
 simple golang questions
 
+
+```go
+package main
+
+import "fmt"
+
+func hello(i int) {
+	fmt.Println(i)
+}
+
+func main() {
+	i := 5
+	defer hello(i)
+	i = i + 10
+}
+
+```
+
+answer options
+```bash
+- 5
+- 15
+- 0
+```
+
+```
+<details>
+<summary> click show answer </summary>
+<p>
+
+```bash
+- 5
+```
+</p>
+</details>
+
+
 ```go
 package main
 
