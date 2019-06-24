@@ -27,6 +27,8 @@ answer options
 ```
 
 ```
+
+
 <details>
 <summary> click show answer </summary>
 <p>
@@ -36,6 +38,7 @@ answer options
 ```
 </p>
 </details>
+
 
 
 ```go
