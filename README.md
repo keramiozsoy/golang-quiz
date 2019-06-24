@@ -26,12 +26,9 @@ answer options
 - 0
 ```
 
-```
-
 <details>
 <summary> click show answer </summary>
 <p>
-
 ```bash
 - 5
 ```
