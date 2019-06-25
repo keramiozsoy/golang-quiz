@@ -2,6 +2,37 @@
 simple golang questions
 
 
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Printf("%%")
+}
+```
+
+answer options
+```bash
+- 0.0
+- compilation error
+- %
+- %%
+```
+
+
+
+<details>
+<summary> click show answer </summary>
+<p>
+```bash
+- %
+```
+</p>
+</details>
+
+
 ```go
 package main
 
