@@ -1,6 +1,39 @@
 # golang-quiz
 simple golang questions
 
+```go
+package main
+
+import "fmt"
+
+func main() {
+	 
+	s := make(map[string]int)
+	delete(s,"h")
+	fmt.Println(s["h"])
+}
+```
+
+answer options
+
+```bash
+- runtime panic
+- 0
+- compilation error
+```
+
+
+<details>
+<summary> click show answer </summary>
+<p>
+	
+```bash
+- 0
+```
+
+</p>
+</details>
+
 
 
 ```go
