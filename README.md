@@ -1,5 +1,40 @@
 # golang-quiz
 simple golang questions
+```go
+package main
+
+import "fmt"
+
+func main() {
+	i := 0 
+	_,i = 5,8
+	fmt.Println(i)
+}
+```
+
+answer options
+
+```bash
+- runtime panic
+- 8
+- compilation error
+- 5
+```
+
+
+<details>
+<summary> click show answer </summary>
+<p>
+	
+```bash
+- 8
+```
+
+</p>
+</details>
+
+
+
 
 ```go
 package main
