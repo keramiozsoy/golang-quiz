@@ -33,7 +33,7 @@ answer options
 </p>
 </details>
 
-
+***
 
 
 ```go
@@ -70,6 +70,7 @@ answer options
 </details>
 
 
+***
 
 ```go
 package main
@@ -102,6 +103,8 @@ answer options
 </p>
 </details>
 
+
+***
 
 ```go
 package main
@@ -139,7 +142,7 @@ answer options
 </details>
 
  
-
+***
 
 
 ```go
@@ -172,6 +175,7 @@ func main() {
 </p>
 </details>
 
+***
 
 ```go
 package main
