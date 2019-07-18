@@ -1,5 +1,49 @@
 # golang-quiz
 simple golang questions
+
+```go
+package main
+
+import "fmt"
+
+func hello(p ...int){
+	if p==nil {
+	  fmt.Println("nil")
+	  return
+	}
+	fmt.Println("not nil")
+}
+
+func main() {	
+   hello()
+}
+```
+
+answer options
+
+```bash
+- nil
+- not nil
+- compilation error
+- 5
+```
+
+
+<details>
+<summary> click show answer </summary>
+<p>
+	
+```bash
+- nil
+```
+
+</p>
+</details>
+
+***
+
+
+
 ```go
 package main
 
