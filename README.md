@@ -25,7 +25,6 @@ answer options
 - nil
 - not nil
 - compilation error
-- 5
 ```
 
 
