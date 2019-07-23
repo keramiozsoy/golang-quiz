@@ -1,5 +1,6 @@
 # golang-quiz
 simple golang questions
+All resources https://twitter.com/bot_golang
 
 ```go
 package main
