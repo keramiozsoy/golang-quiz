@@ -2,6 +2,48 @@
 simple golang questions
 All resources https://twitter.com/bot_golang
 
+
+
+
+```go
+package main
+
+import "fmt"
+
+func hello(a...interface{}){
+   fmt.Println(len(a))
+}
+
+func main() {	
+   hello(nil)
+}
+```
+
+answer options
+
+```bash
+- 1
+- runtime panic
+- compilation error
+```
+
+
+<details>
+<summary> click show answer </summary>
+<p>
+	
+```bash
+- 1
+```
+
+</p>
+</details>
+
+***
+
+
+
+
 ```go
 package main
 
